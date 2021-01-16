@@ -1,0 +1,30 @@
+.title {
+    align-content: center;
+    height: 50px;
+    background-color: rgb(199, 200, 201);
+    padding-left: 490px;
+}
+
+.columns {
+    background-color: rgb(48, 98, 238);
+}
+
+.column {
+    height: 250px;
+    margin: 100px 400px 150px 400px;
+    border: 1px solid black;
+    background-color: beige;
+    padding: 30px 46px 0px 46px;
+    overflow: auto;
+    align-content: center;
+}
+
+.highlight {
+    background-color: rgb(227, 247, 138);
+    color: rgb(0, 0, 0);
+}
+
+.no-user {
+    height: 50px;
+    background-color: rgb(48, 100, 41);
+}
